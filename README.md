@@ -1,4 +1,4 @@
-# Panel de Pon
+# Panel de Pon in BRC
 This mod adds Panel de Pon (aka Tetris Attack, sometimes known as Pokemon Puzzle League) onto your flip phone.
 
 ## Controls
