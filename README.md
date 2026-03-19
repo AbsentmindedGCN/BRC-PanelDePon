@@ -2,7 +2,7 @@
 This mod adds Panel de Pon (aka Tetris Attack, sometimes known as Pokemon Puzzle League) onto your flip phone.
 
 ## Controls
-- Use Left/Right on the D-Pad or Arrow Keys to start to Exit or Begin a game.
+- Use Left/Right on the D-Pad or Arrow Keys to Exit or Begin a game.
 - Use WASD or your Analog Stick to move the Cursor
 - Press Space Bar or the A button to Swap panels
 - Press Left Shift or the B button to raise your panels
